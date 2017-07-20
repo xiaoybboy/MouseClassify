@@ -1,0 +1,7 @@
+.spyproject/
+__pycache__/
+dsjtzs_txfz_test1.txt.zip
+dsjtzs_txfz_training.txt.zip
+dsjtzs_txfz_test1.txt
+dsjtzs_txfz_training.txt
+*.csv
